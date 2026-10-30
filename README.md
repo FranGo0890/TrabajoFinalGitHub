@@ -10,8 +10,8 @@ Cloná el repositorio y abrí el archivo index.html.
 Creación de un e-commerce orientado a la venta de materiales eléctricos e iluminación
 ## Como moverte de Rama en Git
 ```bash
-git switch
-
+git switch <nombre-de-rama>
+```
 ## Flujo de Colaboración (Workflow)
 
 En este proyecto utilizamos la metodología de trabajo basada en **Feature Branching**, **Issues** y **Pull Requests**:
